@@ -1,5 +1,5 @@
 # kalkulator-tras
-Portal dla kierowców do obliczania kosztów tras.
+### Portal dla kierowców do obliczania kosztów tras.
 
 1. Nazwa aplikacji : kalkulator tras
 2. Autorzy: Patryk Wójcik
