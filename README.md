@@ -4,8 +4,8 @@
 1. Nazwa aplikacji : kalkulator tras
 2. Autorzy: Patryk Wójcik
 3. Opis strony:
-   Portal dla kierowców wspomagający kalkulacje opłacalności trasy.
-   Użytkownik po zalogowaniu ma dostęp do profilu, może wybrać trasę i wyliczyć koszt podróży a w przypadku komercyjngo zlecenia zysk.
+   - Portal dla kierowców wspomagający kalkulacje opłacalności trasy.
+   - Użytkownik po zalogowaniu ma dostęp do profilu, może wybrać trasę i wyliczyć koszt podróży a w przypadku komercyjngo zlecenia zysk.
 4. TO DO:
   - a. stworzenie struktury katalogów
   - b. synchronizacja ze zdalnym repozytrium git
